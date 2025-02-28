@@ -77,4 +77,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: gunawand/go-sanbercode/persons:latest
+        tags: gunawand/go-persons:latest
